@@ -12,7 +12,7 @@ document.getElementById('ticketForm').addEventListener('submit', function(event)
     }
     else{
         price = 50
-    }
+    } // srkrgjsldkfgjsljdk
     
    if (ticketType =='regular'){
     for (var i = 0; i < quantity; i++) {
